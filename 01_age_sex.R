@@ -1,7 +1,7 @@
 # association between age and sex and z-scores
 
 load("~/Dropbox/ENIGMA/derivatives/derivatives.RData")
-source("~/Dropbox/ENIGMA/0_Covariates.R")
+source("~/Dropbox/ENIGMA/20_Covariates.R")
 
 
 for(column in 2:36){

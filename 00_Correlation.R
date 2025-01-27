@@ -1,7 +1,3 @@
-# seperate between train and test split
-# CO Johanna Bayer
-# 25 March 22: adding ComBat Gam
-
 library(ggplot2)
 library(Hmisc)
 library(corrplot)

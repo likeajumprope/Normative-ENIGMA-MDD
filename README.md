@@ -1,2 +1,2 @@
-Website for ENIGMA paper
+Website for ENIGMA paper <br>
 [![DOI](https://zenodo.org/badge/671319365.svg)](https://doi.org/10.5281/zenodo.15364607)
